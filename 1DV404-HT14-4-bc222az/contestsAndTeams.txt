@@ -1,0 +1,5 @@
+contest1:lag1:15
+contest2:lag1:2
+contest3:lag2:10
+contest1:lag2:150
+contest1:lag3:3
